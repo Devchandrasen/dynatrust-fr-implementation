@@ -1,0 +1,7 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.svg text eol=lf
+*.yml text eol=lf
+# Keep recorded source and fixture bytes identical on every platform.
+experiments/** -text whitespace=cr-at-eol

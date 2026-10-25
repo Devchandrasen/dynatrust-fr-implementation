@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "runtime": {
+    "version": "3.47",
+    "commit": "e2c9e30c6ebdfd534aa7e30f6324b5674d138b9f"
+  },
+  "studies": [
+    {
+      "id": "core",
+      "missions": 1510,
+      "rounds": 467000,
+      "manifest": "core/manifest.json"
+    },
+    {
+      "id": "commissioned",
+      "missions": 600,
+      "rounds": 222000,
+      "manifest": "commissioned/manifest.json"
+    },
+    {
+      "id": "sequential",
+      "missions": 810,
+      "rounds": 285000,
+      "manifest": "sequential/manifest.json"
+    },
+    {
+      "id": "rolling",
+      "missions": 870,
+      "rounds": 338000,
+      "manifest": "rolling/manifest.json"
+    },
+    {
+      "id": "references",
+      "missions": 760,
+      "rounds": 284000,
+      "manifest": "references/manifest.json"
+    },
+    {
+      "id": "calibration",
+      "missions": 770,
+      "rounds": 259000,
+      "manifest": "calibration/manifest.json"
+    }
+  ],
+  "missions": 5320,
+  "rounds": 1855000,
+  "fusion_trials": 7200
+}

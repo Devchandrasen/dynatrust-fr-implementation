@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="350" viewBox="0 0 1280 350" role="img" aria-labelledby="title desc">
+<title id="title">DynaTrust-FR</title><desc id="desc">Secure sensor collection with a connected sensor, head and controller network.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1425"/><stop offset="1" stop-color="#172d47"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a5bfd8" stroke-opacity=".055"/></pattern></defs>
+<rect width="1280" height="350" rx="20" fill="url(#bg)"/><rect width="1280" height="350" rx="20" fill="url(#grid)"/>
+<rect x="54" y="57" width="5" height="42" rx="2.5" fill="#2dd4bf"/>
+<text x="78" y="82" fill="#99f6e4" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2.7">TRUST · COLLECT · RECOVER</text>
+<text x="54" y="162" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">DynaTrust-FR</text>
+<text x="57" y="205" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="22">Secure sensor collection in ns-3</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#dbeafe"><rect x="57" y="249" width="100" height="32" rx="16" fill="#203b59"/><text x="107" y="270" text-anchor="middle">LR-WPAN</text><rect x="169" y="249" width="100" height="32" rx="16" fill="#203b59"/><text x="219" y="270" text-anchor="middle">6LoWPAN</text><rect x="281" y="249" width="191" height="32" rx="16" fill="#203b59"/><text x="376" y="270" text-anchor="middle">Repeatable experiments</text></g>
+<g stroke="#37627e" stroke-width="2" fill="none"><path d="M836 103L938 170M826 174L938 170M842 249L938 170M938 170H1080M938 170L1000 81M938 170L1000 267"/><path d="M1013 104Q1100 75 1148 133M1148 208Q1100 267 1020 254" stroke="#2dd4bf" stroke-dasharray="5 7" opacity=".6"/></g>
+<g fill="#203b59" stroke="#7dd3fc" stroke-width="2"><circle cx="826" cy="96" r="13"/><circle cx="812" cy="175" r="13"/><circle cx="834" cy="255" r="13"/><circle cx="1000" cy="81" r="13"/><circle cx="1000" cy="267" r="13"/></g>
+<circle cx="938" cy="170" r="29" fill="#2563eb" stroke="#93c5fd" stroke-width="2"/><text x="938" y="176" text-anchor="middle" fill="white" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700">CH</text>
+<rect x="1080" y="132" width="122" height="77" rx="16" fill="#103e42" stroke="#2dd4bf" stroke-width="2"/><path d="M1130 148L1141 144L1152 148V160Q1152 169 1141 175Q1130 169 1130 160Z" fill="none" stroke="#99f6e4" stroke-width="2"/><path d="M1136 158L1140 162L1147 153" fill="none" stroke="#99f6e4" stroke-width="2"/><text x="1141" y="193" text-anchor="middle" fill="#ccfbf1" font-family="Arial,Helvetica,sans-serif" font-size="13">Controller</text>
+</svg>

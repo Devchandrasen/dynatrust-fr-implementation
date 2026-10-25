@@ -1,9 +1,5 @@
-# ns-3 Scratch Programs
+# Simulator sources
 
-Copy these files into the `scratch/` directory of an ns-3.47 checkout, then build the scratch targets from the ns-3 root.
+Complete LR-WPAN/6LoWPAN implementations and their recorded configurations are organised under [`experiments/`](../experiments). Start with the [setup guide](../docs/getting-started.md) and use `scripts/run_study.py` to build and replay a collection.
 
-Files:
-
-- `dynatrust-fr-packet.cc`: packet-level DynaTrust-FR simulator with clustering, trust fusion, attack models, filtering, mobility, energy, and CSV output.
-- `dynatrust-fr-smoke.cc`: small smoke test target.
-- `dynatrust-lr-wpan-validation.cc`: LR-WPAN/6LoWPAN delivery validation target.
+`scratch/` retains the earlier WiFi packet and connectivity examples for component exploration.
